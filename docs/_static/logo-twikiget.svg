@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="500mm"
+   height="600mm"
+   viewBox="0 0 500 600"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (33fec40, 2019-01-16)"
+   sodipodi:docname="twikiget.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3719">
+      <stop
+         style="stop-color:#ffff00;stop-opacity:1;"
+         offset="0"
+         id="stop3715" />
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1"
+         offset="1"
+         id="stop3717" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3719"
+       id="linearGradient3721"
+       x1="149.67857"
+       y1="-73.416664"
+       x2="469.44644"
+       y2="260.71429"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-4.7865582,-127.05584)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-397.74379"
+     inkscape:cy="1052.0689"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer4"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1871"
+     inkscape:window-height="1176"
+     inkscape:window-x="49"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     objecttolerance="20"
+     guidetolerance="20"
+     gridtolerance="10">
+    <sodipodi:guide
+       position="250.97619,418.79762"
+       orientation="1,0"
+       id="guide4531"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="11.759859,80.180859"
+       orientation="0,1"
+       id="guide4684"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="36.348655,399.83523"
+       orientation="1,0"
+       id="guide4686"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="463.9799,240.54258"
+       orientation="1,0"
+       id="guide4690"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="background">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="rect4871"
+       width="503.5358"
+       height="599.75281"
+       x="-1.0690781"
+       y="1.3162633" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,303)">
+    <rect
+       id="rect3713"
+       width="427.86905"
+       height="427.86905"
+       x="36.790829"
+       y="-294.2106"
+       style="fill:url(#linearGradient3721);fill-opacity:1;stroke-width:0.26458332"
+       ry="40"
+       rx="40" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Download"
+     transform="translate(0,100)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.21896467"
+       id="rect4529"
+       width="335.64285"
+       height="42.455254"
+       x="82.742592"
+       y="238.95325" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.11762737"
+       id="rect4529-3"
+       width="96.860359"
+       height="42.455254"
+       x="184.54813"
+       y="-125.19785"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.11762737"
+       id="rect4529-3-6"
+       width="96.860359"
+       height="42.455254"
+       x="184.54816"
+       y="-418.38544"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.21258564"
+       id="rect4529-3-6-7"
+       width="223.86035"
+       height="60"
+       x="-44.860592"
+       y="-279.90219"
+       transform="rotate(90)" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 184.56939,127.1942 66.52381,98.27378 V 127.1942 Z"
+       id="path4607"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 317.5,127.1942 -66.52381,98.27378 V 127.1942 Z"
+       id="path4607-5"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4643"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,-200)"><flowRegion
+         id="flowRegion4645"><rect
+           id="rect4647"
+           width="1777.1428"
+           height="468.57144"
+           x="62.857143"
+           y="2022.812" /></flowRegion><flowPara
+         id="flowPara4649" /></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="tekst"
+     transform="translate(0,-100)">
+    <g
+       aria-label="get"
+       transform="matrix(0.26458333,0,0,0.26458333,245.25031,8.8964389)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66668701px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:-3.78999996px;word-spacing:0px;fill:#ffde00;fill-opacity:1;stroke:none"
+       id="flowRoot4652">
+      <path
+         d="m 265.59743,2274.0018 q 0,52.5 42.42,52.5 9.66,0 18.06,-2.52 8.4,-2.52 14.28,-5.88 v -99.96 q -4.62,-0.84 -10.92,-1.26 -6.3,-0.84 -14.7,-0.84 -24.78,0 -36.96,16.38 -12.18,16.38 -12.18,41.58 z m 137.34001,89.88 q 0,54.18 -27.72,80.22 -27.30001,26.46 -84.84001,26.46 -20.16,0 -40.32,-3.78 -20.16,-3.36 -37.38001,-9.24 l 10.92,-52.5 q 14.70001,5.88 30.66001,9.24 16.38,3.36 36.96,3.36 26.88,0 37.8,-11.76 11.34,-11.76 11.34,-30.24 v -7.98 q -10.08,4.62 -21,7.14 -10.5,2.1 -23.1,2.1 -45.78,0 -70.14,-26.88 -24.36001,-27.3 -24.36001,-76.02 0,-24.36 7.56,-44.1 7.56,-20.16 21.84001,-34.44 14.7,-14.28 35.7,-21.84 21,-7.98 47.46,-7.98 11.34,0 23.1,1.26 12.18,0.84 23.94,2.52 11.76001,1.68 22.26001,4.2 10.92,2.1 19.32,4.62 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:420.00003052px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:-10.27000046px;fill:#ffde00;fill-opacity:1"
+         id="path4813" />
+      <path
+         d="m 440.86243,2282.8218 q 0,-29.4 8.82,-51.24 9.24001,-22.26 23.94001,-36.96 14.7,-14.7 33.6,-22.26 19.32,-7.56 39.48,-7.56 47.04001,0 74.34001,28.98 27.3,28.56 27.3,84.42 0,5.46 -0.42,12.18 -0.42,6.3 -0.84,11.34 H 505.12244 q 2.1,19.32 18.06,30.66 15.96,11.34 42.84,11.34 17.22,0 33.60001,-2.94 16.8,-3.36 27.3,-7.98 l 8.4,50.82 q -5.04,2.52 -13.44,5.04 -8.4,2.52 -18.9,4.2 -10.08,2.1 -21.84001,3.36 -11.76,1.26 -23.52,1.26 -29.82,0 -52.08,-8.82 -21.84,-8.82 -36.54,-23.94 -14.28,-15.54 -21.42001,-36.54 -6.72,-21 -6.72,-45.36 z m 147.00001,-23.94 q -0.42,-7.98 -2.94,-15.54 -2.1,-7.56 -7.14,-13.44 -4.62,-5.88 -12.18,-9.66 -7.14,-3.78 -18.06,-3.78 -10.5,0 -18.06,3.78 -7.56,3.36 -12.6,9.24 -5.04,5.88 -7.98,13.86 -2.52,7.56 -3.78,15.54 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:420.00003052px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:-10.27000046px;fill:#ffde00;fill-opacity:1"
+         id="path4815" />
+      <path
+         d="m 684.26588,2115.6618 62.58001,-10.08 v 65.1 h 75.18 v 52.08 h -75.18 v 77.7 q 0,19.74 6.72,31.5 7.14,11.76 28.14,11.76 10.08,0 20.58,-1.68 10.92,-2.1 19.74,-5.46 l 8.82,48.72 q -11.34,4.62 -25.2,7.98 -13.86,3.36 -34.02,3.36 -25.62,0 -42.42,-6.72 -16.8,-7.14 -26.88001,-19.32 -10.08,-12.6 -14.28,-30.24 -3.78,-17.64 -3.78,-39.06 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:420.00003052px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:-10.27000046px;fill:#ffde00;fill-opacity:1"
+         id="path4817" />
+    </g>
+    <g
+       aria-label="twiki"
+       transform="matrix(0.26458333,0,0,0.26458333,-17.268462,9.3271509)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66668701px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot4652-9">
+      <path
+         d="m 210.15742,2115.6618 62.58001,-10.08 v 65.1 h 75.18 v 52.08 h -75.18 v 77.7 q 0,19.74 6.72,31.5 7.14,11.76 28.14,11.76 10.08,0 20.58,-1.68 10.92,-2.1 19.74,-5.46 l 8.82,48.72 q -11.34,4.62 -25.2,7.98 -13.86,3.36 -34.02,3.36 -25.62,0 -42.42,-6.72 -16.8,-7.14 -26.88,-19.32 -10.08001,-12.6 -14.28001,-30.24 -3.78,-17.64 -3.78,-39.06 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:420.00003052px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000"
+         id="path4802" />
+      <path
+         d="m 536.96995,2264.7618 q -8.4,31.92 -18.06,63.42 -9.24,31.5 -19.74,63.42 h -48.72001 q -7.56,-17.64 -16.38,-42 -8.82,-24.36 -18.48,-52.92 -9.24,-28.98 -19.32,-60.9 -9.66,-32.34 -18.9,-65.1 h 65.94 q 3.36,15.12 7.14,33.18 4.2,17.64 8.4,36.54 4.62,18.9 9.24,38.22 5.04,18.9 10.08,36.54 5.46001,-18.48 10.50001,-37.8 5.46,-19.32 10.08,-37.8 5.04,-18.9 9.24,-36.12 4.62,-17.64 7.98,-32.76 h 45.36 q 3.36,15.12 7.56,32.76 4.2,17.22 8.82,36.12 4.62,18.48 9.66,37.8 5.04,19.32 10.5,37.8 5.04,-17.64 10.08,-36.54 5.04,-19.32 9.24,-38.22 4.62001,-18.9 8.40001,-36.54 4.2,-18.06 7.56,-33.18 h 65.1 q -9.24,32.76 -19.32,65.1 -9.66,31.92 -19.32,60.9 -9.24,28.56 -18.48,52.92 -8.82,24.36 -16.38,42 h -48.72001 q -10.5,-31.92 -20.58,-63.42 -10.08,-31.5 -18.48,-63.42 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:420.00003052px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000"
+         id="path4804" />
+      <path
+         d="m 794.0953,2391.6018 h -62.58 v -220.92 h 62.58 z m 5.88,-284.76 q 0,17.22 -11.34,27.3 -10.92,9.66 -26.04,9.66 -15.12,0 -26.46,-9.66 -10.92,-10.08 -10.92,-27.3 0,-17.22 10.92,-26.88 11.34,-10.08 26.46,-10.08 15.12,0 26.04,10.08 11.34,9.66 11.34,26.88 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:420.00003052px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000"
+         id="path4806" />
+      <path
+         d="m 915.50155,2250.4818 q 9.24,-10.08 18.9,-21 10.08,-10.92 19.32,-21.42 9.24001,-10.92 17.22001,-20.58 8.4,-9.66 14.28,-16.8 h 74.34004 q -22.26,25.62 -43.68,49.14 -21.00004,23.1 -46.20004,47.88 12.6,11.34 26.04,27.3 13.44004,15.54 26.04004,32.34 12.6,16.8 23.1,33.6 10.5,16.8 17.64,30.66 h -71.82004 q -6.72,-10.92 -15.54,-23.94 -8.4,-13.44 -18.06,-26.46 -9.66001,-13.44 -20.58001,-25.62 -10.5,-12.18 -21,-20.58 v 96.6 h -62.58 v -315.84 l 62.58,-10.08 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:420.00003052px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000"
+         id="path4808" />
+      <path
+         d="m 1158.3141,2391.6018 h -62.5801 v -220.92 h 62.5801 z m 5.88,-284.76 q 0,17.22 -11.34,27.3 -10.92,9.66 -26.0401,9.66 -15.12,0 -26.46,-9.66 -10.92,-10.08 -10.92,-27.3 0,-17.22 10.92,-26.88 11.34,-10.08 26.46,-10.08 15.1201,0 26.0401,10.08 11.34,9.66 11.34,26.88 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:420.00003052px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ff0000"
+         id="path4810" />
+    </g>
+  </g>
+</svg>

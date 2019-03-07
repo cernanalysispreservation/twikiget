@@ -12,6 +12,9 @@ import re
 
 from setuptools import setup
 
+readme = open('README.rst').read()
+history = open('CHANGES.rst').read()
+
 tests_require = [
     'isort>=4.3.4',
     'coverage>=4.0',
@@ -23,6 +26,11 @@ tests_require = [
 ]
 
 extras_require = {
+    'docs': [
+        'Sphinx>=1.5.1',
+        'sphinx-rtd-theme>=0.1.9',
+        'sphinx-click>=1.0.4',
+    ],
     'tests': tests_require,
 }
 
@@ -51,6 +59,7 @@ setup(
     name='twikiget',
     version=version,
     description=__doc__,
+    long_description=readme + '\n\n' + history,
     author='CERN Analysis Preservation',
     author_email='analysis-preservation-team@cern.ch',
     extras_require=extras_require,
@@ -68,6 +77,7 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
+        'Programming Language :: Python :: 2.7',
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
