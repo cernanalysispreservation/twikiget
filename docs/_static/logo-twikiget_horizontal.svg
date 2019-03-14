@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="500mm"
+   width="2650mm"
    height="600mm"
-   viewBox="0 0 500 600"
+   viewBox="0 0 2650 600"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (33fec40, 2019-01-16)"
-   sodipodi:docname="twikiget.svg">
+   sodipodi:docname="twikiget_horizontal.svg"
+   inkscape:export-filename="/home/janek/Pulpit/twikiget_small.png"
+   inkscape:export-xdpi="10.079486"
+   inkscape:export-ydpi="10.079486">
   <defs
      id="defs2">
     <linearGradient
@@ -35,12 +38,12 @@
        inkscape:collect="always"
        xlink:href="#linearGradient3719"
        id="linearGradient3721"
-       x1="54.23209"
-       y1="-154.90833"
-       x2="458.99539"
-       y2="247.08826"
+       x1="57.076084"
+       y1="-153.67215"
+       x2="456.32776"
+       y2="247.59561"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-4.7865582,-127.05584)" />
+       gradientTransform="matrix(1.3714534,0,0,1.3714534,-20.230621,-64.965634)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,9 +52,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="744.21024"
-     inkscape:cy="1776.0131"
+     inkscape:zoom="0.0625"
+     inkscape:cx="1883.8129"
+     inkscape:cy="3539.731"
      inkscape:document-units="mm"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -66,7 +69,7 @@
      guidetolerance="20"
      gridtolerance="10">
     <sodipodi:guide
-       position="250.97619,418.79762"
+       position="239.46224,291.67859"
        orientation="1,0"
        id="guide4531"
        inkscape:locked="false" />
@@ -81,39 +84,24 @@
        id="guide4686"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="463.9799,240.54258"
+       position="421.9303,291.67859"
        orientation="1,0"
        id="guide4690"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="184.45238,372.8058"
+       position="330.69654,156.90068"
+       orientation="0,1"
+       id="guide3752"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-146.67751,347.23656"
+       orientation="0,1"
+       id="guide3754"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="330.69654,156.90068"
        orientation="1,0"
-       id="guide845"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="317.5,372.8058"
-       orientation="1,0"
-       id="guide847"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="250.97619,274.53202"
-       orientation="0,1"
-       id="guide849"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="317.5,372.8058"
-       orientation="0,1"
-       id="guide851"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="449.0128,58.371664"
-       orientation="0,1"
-       id="guide863"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="82.577333,116.34663"
-       orientation="0,1"
-       id="guide865"
+       id="guide3756"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -132,17 +120,21 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,303)"
-     style="display:inline">
+     transform="translate(0,303)">
     <rect
        id="rect3713"
-       width="427.86905"
-       height="427.86905"
+       width="586.80249"
+       height="586.80249"
        x="36.790829"
        y="-294.2106"
-       style="fill:url(#linearGradient3721);fill-opacity:1;stroke-width:0.26458332"
-       ry="40"
-       rx="40" />
+       style="display:inline;fill:url(#linearGradient3721);fill-opacity:1;stroke-width:0.36286369"
+       ry="54.858135"
+       rx="54.858135" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 239.46224,5.3214151 330.69654,140.09932 421.9303,5.3214151 Z"
+       id="path4575"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -150,35 +142,35 @@
      inkscape:label="Download"
      transform="translate(0,100)">
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.21896467"
+       style="fill:#ffffff;stroke:none;stroke-width:0.30029985"
        id="rect4529"
-       width="335.64285"
-       height="42.455254"
-       x="82.742592"
-       y="238.95325" />
+       width="460.31854"
+       height="58.225403"
+       x="99.811531"
+       y="361.59375" />
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.11762737"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.16132045"
        id="rect4529-3"
-       width="96.860359"
-       height="42.455254"
-       x="184.54813"
-       y="-125.19785"
+       width="132.83948"
+       height="58.225403"
+       x="286.97964"
+       y="-158.03694"
        transform="rotate(90)" />
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.11762737"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.16132045"
        id="rect4529-3-6"
-       width="96.860359"
-       height="42.455254"
-       x="184.54816"
-       y="-418.38544"
+       width="132.83948"
+       height="58.225403"
+       x="286.97968"
+       y="-560.13007"
        transform="rotate(90)" />
     <rect
-       style="fill:#ffffff;stroke:none;stroke-width:0.21258564"
+       style="display:inline;fill:#ffffff;stroke:none;stroke-width:0.29155129"
        id="rect4529-3-6-7"
-       width="223.86035"
-       height="60"
-       x="-44.860592"
-       y="-279.90219"
+       width="307.01404"
+       height="82.287209"
+       x="-31.011318"
+       y="-372.04007"
        transform="rotate(90)" />
     <flowRoot
        xml:space="preserve"
@@ -191,12 +183,7 @@
            height="468.57144"
            x="62.857143"
            y="2022.812" /></flowRegion><flowPara
-         id="flowPara4649" /></flowRoot>    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 184.45238,127.19419 250.97619,225.46798 317.5,127.19419 Z"
-       id="path853"
-       inkscape:connector-curvature="0" />
-  </g>
+         id="flowPara4649" /></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -204,7 +191,7 @@
      transform="translate(0,-100)">
     <g
        aria-label="get"
-       transform="matrix(0.26458333,0,0,0.26458333,245.25031,9.4256056)"
+       transform="matrix(1.1784728,0,0,1.1784728,1614.5881,-2199.3027)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66668701px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:-3.78999996px;word-spacing:0px;fill:#ffde00;fill-opacity:1;stroke:none"
        id="flowRoot4652">
       <path
@@ -225,7 +212,7 @@
     </g>
     <g
        aria-label="twiki"
-       transform="matrix(0.26458333,0,0,0.26458333,-17.268462,9.3271509)"
+       transform="matrix(1.172869,0,0,1.172869,414.94159,-2187.7461)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:266.66668701px;font-family:FontAwesome;-inkscape-font-specification:FontAwesome;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        id="flowRoot4652-9">
       <path

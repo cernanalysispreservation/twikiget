@@ -7,14 +7,14 @@
 .. .image:: https://img.shields.io/pypi/pyversions/twikiget.svg
   .:target: https://pypi.org/pypi/twikiget
 
-.. .image:: https://img.shields.io/travis/cernanalysispreservation/twikiget.svg
-  .:target: https://travis-ci.org/cernanalysispreservation/twikiget
+.. image:: https://img.shields.io/travis/cernanalysispreservation/twikiget.svg
+  :target: https://travis-ci.org/cernanalysispreservation/twikiget
 
-.. .image:: https://readthedocs.org/projects/docs/badge/?version=latest
-   .:target: https://twikiget.readthedocs.io/en/latest/?badge=latest
+.. image:: https://readthedocs.org/projects/docs/badge/?version=latest
+   :target: https://twikiget.readthedocs.io/en/latest/?badge=latest
 
-.. .image:: https://img.shields.io/coveralls/cernanalysispreservation/twikiget.svg
-   .:target: https://coveralls.io/r/cernanalysispreservation/twikiget
+.. image:: https://img.shields.io/coveralls/cernanalysispreservation/twikiget.svg
+   :target: https://coveralls.io/r/cernanalysispreservation/twikiget
 
 .. image:: https://img.shields.io/github/license/cernanalysispreservation/twikiget.svg
    :target: https://github.com/cernanalysispreservation/twikiget/blob/master/LICENSE
