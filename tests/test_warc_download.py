@@ -15,14 +15,32 @@ from twikiget.cli import wget_warc
 def test_download_successful():
     runner = CliRunner()
     url = 'https://twiki.cern.ch/twiki/bin/view/Main/ZhuTopAnalysis'
-    filename = url.split("/")[-1] + '.warc'
+    warc_filename = url.split("/")[-1] + '.warc'
     raw_download_dir = 'test_download'
 
     result = runner.invoke(wget_warc, [url, '-P', raw_download_dir])
     assert result.exit_code == 0
-    assert os.path.isfile(filename) is True
+    assert os.path.isfile(warc_filename) is True
     assert os.path.exists(raw_download_dir) is True
 
     # clean up
-    os.remove(filename)
+    os.remove(warc_filename)
+    rmtree(raw_download_dir)
+
+
+def test_attachments_preset():
+    runner = CliRunner()
+    url = 'https://twiki.cern.ch/twiki/bin/view/Main/ZhuTopAnalysis'
+    raw_download_dir = 'test_download'
+
+    result = runner.invoke(wget_warc, [url, '-P', raw_download_dir])
+    assert result.exit_code == 0
+    attachment = os.path.join(
+        raw_download_dir,
+        'twiki.cern.ch/twiki/pub/Main/ZhuTopAnalysis',
+        'SlimCuts_leptonMoreThan0_jetsMoreThan3.txt'
+    )
+    assert os.path.isfile(attachment) is True
+
+    # clean up
     rmtree(raw_download_dir)

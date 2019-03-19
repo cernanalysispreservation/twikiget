@@ -103,5 +103,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# outputs folder with archived websites
-outputs
+# Webrecorder Player
+_warc_cache
+
+# _cache folder with archived websites
+cache
+
+# warc files
+*.warc
