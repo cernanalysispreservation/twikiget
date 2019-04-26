@@ -27,7 +27,7 @@ tests_require = [
 
 extras_require = {
     'docs': [
-        'Sphinx>=1.5.1',
+        'Sphinx>=1.4.4,<2.0',
         'sphinx-rtd-theme>=0.1.9',
         'sphinx-click>=1.0.4',
     ],
@@ -62,6 +62,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author='CERN Analysis Preservation',
     author_email='analysis-preservation-team@cern.ch',
+    packages=['twikiget', ],
     extras_require=extras_require,
     install_requires=install_requires,
     setup_requires=setup_requires,
