@@ -9,16 +9,16 @@ from shutil import rmtree
 
 from click.testing import CliRunner
 
-from twikiget.cli import wget_warc
+from twikiget.cli import archive
 
 
-def test_download_successful():
+def test_archive_successful():
     runner = CliRunner()
-    url = 'https://twiki.cern.ch/twiki/bin/view/Main/ZhuTopAnalysis'
+    url = 'https://twiki.cern.ch/twiki/bin/view/Inspire/SystemDesignBibExport'
     warc_filename = url.split("/")[-1] + '.warc'
     raw_download_dir = 'test_download'
 
-    result = runner.invoke(wget_warc, [url, '-P', raw_download_dir])
+    result = runner.invoke(archive, [url, '-P', raw_download_dir])
     assert result.exit_code == 0
     assert os.path.isfile(warc_filename) is True
     assert os.path.exists(raw_download_dir) is True
@@ -33,7 +33,7 @@ def test_attachments_preset():
     url = 'https://twiki.cern.ch/twiki/bin/view/Main/ZhuTopAnalysis'
     raw_download_dir = 'test_download'
 
-    result = runner.invoke(wget_warc, [url, '-P', raw_download_dir])
+    result = runner.invoke(archive, [url, '-P', raw_download_dir])
     assert result.exit_code == 0
     attachment = os.path.join(
         raw_download_dir,

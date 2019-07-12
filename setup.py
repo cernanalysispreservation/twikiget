@@ -16,7 +16,7 @@ readme = open('README.rst').read()
 history = open('CHANGES.rst').read()
 
 tests_require = [
-    'isort>=4.3.4',
+    'isort==4.3.4',
     'coverage>=4.0',
     'pydocstyle>=1.0.0',
     'pytest-cache>=1.0',
@@ -45,7 +45,11 @@ setup_requires = [
 ]
 
 install_requires = [
+    'beautifulsoup4>=4.7.1',
     'click>=7,<8',
+    'prettytable>=0.7.2',
+    'tablib>=0.12.1',
+    'warcio>=1.7.0',
 ]
 
 # Get the version string. Cannot be done with import!
@@ -69,7 +73,7 @@ setup(
     tests_require=tests_require,
     entry_points={
         'console_scripts': [
-            'twikiget = twikiget.cli:wget_warc'
+            'twikiget = twikiget.cli:twikiget'
         ]
     },
     classifiers=[

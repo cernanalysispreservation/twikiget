@@ -24,14 +24,27 @@ Basic usage
 .. code-block:: console
 
     $ # download twiki
-    $ twikiget https://twiki.cern.ch/twiki/bin/view/Main/ZhuTopAnalysis
-    $ # list downloaded files
+    $ twikiget archive https://twiki.cern.ch/twiki/bin/view/Main/ZhuTopAnalysis
     $ ls
     ZhuTopAnalysis.warc cache
+    $ # once the twiki is archived we can list it's contents:
+    $ twikiget list ZhuTopAnalysis.warc
+    $ ...
+    $ # we can also view the raw content of each file:
+    $ twikiget view ZhuTopAnalysis.warc https://twiki.cern.ch/twiki/bin/view/Main/ZhuTopAnalysis
+    $ ...
 
 CLI API
 ----------
 
-.. click:: twikiget.cli:wget_warc
-   :prog: twikiget
+.. click:: twikiget.cli:archive
+   :prog: archive
+   :show-nested:
+
+.. click:: twikiget.cli:list
+   :prog: list
+   :show-nested:
+
+.. click:: twikiget.cli:view
+   :prog: view
    :show-nested:
